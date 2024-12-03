@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi! 👋, I'm Harsh Gupta</h1>
-<h3 align="center">An Engineering Undergraduate , an aspiring Data Scientist from India.</h3>
+<h3 align="center">An Engineering Undergraduate exploring the oasis of software technologies</h3>
 
 - 📫 How to reach me **guptaaa.harshh@gmail.com**
 
